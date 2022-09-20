@@ -1,10 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Optimal Sorting</title>
-  </head>
+   <title>Optimal Sorting</title>
+   <link rel="stylesheet" type="text/css" href="styles.css"/>
+   </head>
   <body>
     <h1>Optimal Sorting</h1>
   </body>
+  <a href="https://github.com/jakepodewils/Optimal_Sort/blob/optimalsortcode/optimalsortcode.swift">Github Code Repository</a>
+  <br />
+  <br />
+  <br />
+  <p class="chapter-text intro-text">Quicksort Algorithm FLowchart</p>
   <img src="https://i.postimg.cc/1X6GjdfM/Quicksort-Algorithm-Chart.png" />
+  <br />
+  <br />
+  <br />
+  <a href="https://docs.google.com/spreadsheets/d/1YXax6IvrbNff8YNKEfW1H4Z0fJrbA_Dga2B3NFrtp0w/edit?usp=sharing">Run and Summary Google Sheet</a>
+  <img src="https://i.postimg.cc/dVfqmSBf/3330-FD38-3-B1-F-416-F-AC5-B-A7500-ED0-FFF1-1-105-c.jpg" />
+  <br />
+  <br />
+  <br />
+  <p class="chapter-text intro-text">Git Branches</p>
+  <img src="https://i.postimg.cc/RhBcLNPQ/37-CE1-C93-6-F89-43-A2-A8-AB-F58434-BF00-BB-1-105-c.jpg" />
 </html>
